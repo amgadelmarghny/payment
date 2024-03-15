@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:payment/modules/my_cart/item_order_widget.dart';
-import 'package:payment/modules/my_cart/payment_method_sheet.dart';
+import 'package:payment/layout/item_order_widget.dart';
+import 'package:payment/layout/payment_method_sheet.dart';
 import 'package:payment/modules/thankful/total_price_widget.dart';
 import 'package:payment/shared/components/custom_button.dart';
 import 'package:payment/shared/components/custom_divider_widget.dart';
